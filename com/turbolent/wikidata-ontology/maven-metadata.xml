@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.turbolent</groupId>
+  <artifactId>wikidata-ontology</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151002204501</lastUpdated>
+  </versioning>
+</metadata>

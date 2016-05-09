@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.turbolent</groupId>
+  <artifactId>question-parser_2.11</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160509042636</lastUpdated>
+  </versioning>
+</metadata>
